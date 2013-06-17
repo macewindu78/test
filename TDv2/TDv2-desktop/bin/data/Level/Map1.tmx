@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="virage1" tilewidth="32" tileheight="32">
+  <image source="../Imgs/virage1.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="2" name="virage4" tilewidth="32" tileheight="32">
+  <image source="../Imgs/virage4.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="3" name="virage2" tilewidth="32" tileheight="32">
+  <image source="../Imgs/virage2.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="4" name="virage3" tilewidth="32" tileheight="32">
+  <image source="../Imgs/virage3.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="5" name="herbe" tilewidth="32" tileheight="32">
+  <image source="../Imgs/herbe.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="6" name="routehorizontale" tilewidth="32" tileheight="32">
+  <image source="../Imgs/routehorizontale.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="7" name="routeverticale" tilewidth="32" tileheight="32">
+  <image source="../Imgs/routeverticale.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="8" name="arrivee" tilewidth="32" tileheight="32">
+  <image source="../Imgs/arrivee.png" width="32" height="32"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjZWBgYKUQIwNKzUI3j40EzEhl97GTaB4LAfcxk2geLvvJjQ8mMsOS3PDD5Rd85hEKQ2xhic88csIQn3mkhCEIc1Ap/OiV3wa7eQA8DAUj
+  </data>
+ </layer>
+</map>
